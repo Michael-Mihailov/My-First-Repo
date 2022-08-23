@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Hi
+comment0.text=\r\n\ Michael\ Mihailov\r\n\ 8/23/2022\r\n\ Hello\ world\ program\r\n\ prints\ hello\ world\r\n\ Who\ helped\ me\:\ Elmo\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ this\ is\ our\ code\ notes\r\n
+numComments=2
